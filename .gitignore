@@ -1,0 +1,7 @@
+# Author: Oleg Zhurko <oleg@zhurko.de>
+# host-specific binaries (built with -march=native on first run)
+/build/
+# benchmark output
+/results/
+# leftovers of interrupted disk runs
+.bench-fio-*
